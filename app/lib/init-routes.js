@@ -19,4 +19,3 @@ function load(app, fn){
   console.log('Routes Loaded');
   fn();
 }
-
